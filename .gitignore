@@ -1,3 +1,10 @@
+# Hidden files
+.*
+
+# CLion
+cmake-build-debug
+.idea
+
 # Prerequisites
 *.d
 
