@@ -3,6 +3,7 @@
 
 # CLion
 cmake-build-debug
+CMakeLists.txt
 .idea
 
 # Prerequisites
